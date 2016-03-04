@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/news"
+            android:icon="@mipmap/ic_import_contacts_black_24dp"
+            android:title="News"
+            android:checkable="false"/>
+    </group>
+
+    <item android:title="Events" android:id="@+id/core_event">
+        <menu>
+            <item
+                android:id="@+id/tatva"
+                android:icon="@mipmap/ic_build_black_24dp"
+                android:title="Tatva" />
+            <item
+                android:id="@+id/moksh"
+                android:icon="@mipmap/ic_stars_black_24dp"
+                android:title="Moksh" />
+            <item
+                android:id="@+id/lakshya"
+                android:icon="@mipmap/ic_timer_black_24dp"
+                android:title="Lakshya" />
+        </menu>
+    </item>
+    <group android:id="@+id/group2">
+        <item
+            android:id="@+id/venue"
+            android:icon="@mipmap/ic_place_black_24dp"
+            android:title="Venue" />
+        <item
+            android:id="@+id/register"
+            android:icon="@mipmap/ic_content_paste_black_24dp"
+            android:title="Register a friend"/>
+        <item
+            android:id="@+id/profile"
+            android:icon="@mipmap/ic_face_black_24dp"
+            android:title="Profile" />
+        <item
+            android:id="@+id/sponsors"
+            android:icon="@drawable/hs"
+            android:title="Sponsors"/>
+        <item
+            android:id="@+id/sign_out"
+            android:icon="@mipmap/ic_arrow_back_black_24dp"
+            android:title="Sign Out" />
+        <item
+            android:id="@+id/sign_in"
+            android:icon="@mipmap/ic_arrow_forward_black_24dp"
+            android:title="Sign In" />
+    </group>
+    <group android:id="@+id/group3">
+        <item
+            android:id="@+id/about_us"
+            android:icon="@mipmap/ic_group_black_24dp"
+            android:title="About us" />
+    </group>
+</menu>

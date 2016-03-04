@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:key="reg_code"
+        android:title="Registration Code"
+        android:widgetLayout="@layout/qr_icon" />
+
+    <Preference
+        android:key="year"
+        android:title="Year"/>
+
+    <Preference
+        android:key="branch"
+        android:title="Branch"/>
+
+    <Preference
+        android:key="roll_div"
+        android:title="Roll No. And Division"/>
+
+    <Preference
+        android:key="college"
+        android:title="College"/>
+
+    <PreferenceCategory android:key="event_perf" android:title="Registered events">
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

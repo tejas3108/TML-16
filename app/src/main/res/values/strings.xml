@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">TML\'16</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="facebook_app_id">1673241409613401</string>
+    <string name="facebook_app_id_secret">e23ab646a1b5d1944ee17ba0a951507b</string>
+    <string name="choose_year">Select Year</string>
+    <string-array name="year">
+        <item>First Year</item>
+        <item>Second Year</item>
+        <item>Third Year</item>
+        <item>Fourth Year</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="branch">
+        <item>EXTC</item>
+        <item>CE</item>
+        <item>IT</item>
+        <item>ME</item>
+        <item>PPT</item>
+        <item>BT</item>
+        <item>CHEMICAL</item>
+        <item>CIVIL</item>
+        <item>AUTOMOBILE</item>
+    </string-array>
+    <!--<string-array name="events">
+        <item>Big Boss 2</item>
+        <item>Moksh Film Festival</item>
+        <item>Standup Comedy</item>
+        <item>Cartoon Box Office</item>
+        <item>Mr and Miss TML</item>
+        <item>Chess Sumo</item>
+        <item>Luck By Chance</item>
+        <item>Solo/Duet Singing</item>
+        <item>Karaoke</item>
+        <item>Solo/Duet Dancing</item>
+        <item>Bathroom Singing</item>
+        <item>Amrock</item>
+        <item>Lan Gaming</item>
+        <item>Ad-Frenzy</item>
+        <item>Rangoli</item>
+        <item>Paint without Brush</item>
+        <item>Radium Den</item>
+        <item>Face Painting</item>
+        <item>Inquisitive</item>
+        <item>Dream Job</item>
+        <item>Food Frenzy</item>
+        <item>Air Hockey</item>
+        <item>Snakes N Ladders</item>
+        <item>Treasure Hunt</item>
+        <item>Nukkad ka Natak</item>
+        <item>Just A Minute</item>
+        <item>Snap</item>
+        <item>Crime Scene Investigation</item>
+        <item>HP Mania</item>
+        <item>Logonix</item>
+        <item>Google Whacking</item>
+        <item>Childhood Exhibition</item>
+        <item>Robo Hurdle-Robo F1</item>
+        <item>Robo Sumo</item>
+        <item>Robo Maze</item>
+        <item>AquaBot</item>
+        <item>Robo Cricket</item>
+        <item>Robo Soccer</item>
+        <item>Legends of the hidden temple</item>
+        <item>Virtual Reality games</item>
+    </string-array>-->
+    <string name="title_activity_event_details">EventDetailsActivity</string>
+    <string name="title_activity_about">About Us</string>
+    <string name="read_more">Explore the culture, tradition, colors and emtions of India. Time for some phenomenal gaiety and tamasha. Naachenge, Gaayenge, Machayenge!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
